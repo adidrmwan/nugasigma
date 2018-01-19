@@ -19,5 +19,20 @@ class PageController extends Controller
 		return view('visimisi');
 	}
 
-
+	public function structure()
+	{
+		return view('struktur');
+	}
+		public function machines()
+	{
+		return view('machines');
+	}
+	public function laboratory()
+	{
+		return view('laboratory');
+	}
+	public function conference()
+	{
+		return view('conference');
+	}
 }

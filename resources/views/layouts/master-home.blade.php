@@ -36,6 +36,8 @@
 	    <link href="css/style.css" rel="stylesheet">
 	    <!-- Responsive CSS -->
 	    <link href="css/responsive.css" rel="stylesheet">
+	    <!-- blog CSS -->
+	    <link href="css/blog.css" rel="stylesheet">
 
 	    <script src="js/vendor/modernizr-2.8.1.min.js"></script>
 	    <!-- HTML5 Shim and Respond.js for IE8 support of HTML5 elements and media queries -->
