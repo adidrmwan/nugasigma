@@ -14,7 +14,7 @@
 
 					<div class="col-sm-4 col-xs-12">
 						<div class="logo text-center">
-							<h1><a href="index.html"><img src="img/logo.png" alt=""></a><span>NSP</span></h1>
+							<h1><a href="home"><img src="img/logo.png" alt=""></a><span>NSP</span></h1>
 						</div>
 					</div>
 

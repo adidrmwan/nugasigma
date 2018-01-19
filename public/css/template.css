@@ -68,7 +68,7 @@ a:active {
 
 a:hover,
 a:focus {
-  color: #62646c;
+  color:  #F6931C;
   text-decoration: none;
 }
 
@@ -261,7 +261,7 @@ label {
   margin-bottom: 20px;
 }
 .modal-content .btn-primary {
-  background: #1a8ae1;
+  background: #466FCC;
   color: #fff;
 }
 
@@ -294,7 +294,7 @@ button:focus {
   font-weight: normal;
   color: #fff;
   padding: 3px 18px;
-  background: #1a8ae1;
+  background: #466FCC;
   ;
   border: 0;
   text-transform: uppercase;
@@ -497,7 +497,7 @@ section {
 .page-title-section {
   text-align: center;
   padding: 50px 0 15px;
-    background: #1a8ae1;
+    background: #466FCC;
 }
 
 .page-title-section:after {
@@ -546,6 +546,7 @@ section {
     font-size: 20px;
 }
 
+.grayscale {-webkit-filter: grayscale(50%);filter: grayscale(50%);}
 
 /*call-to-action*/
 
@@ -602,7 +603,7 @@ section {
 }
 
 .login-register li a:hover {
-  color: #1a8ae1;
+  color: #F6931C;
 }
 
 .topbar-right {
@@ -678,6 +679,14 @@ section {
 /*Logo*/
 .logo h1 span {
   display: none;
+}
+
+.logo {
+  max-width: 200px;
+  margin: 0 auto;
+  float: none;
+  display: block;
+  position: relative;
 }
 
 /*login-register modal*/
@@ -857,7 +866,7 @@ FOOTER WIDGET SECTION
 }
 
 .footer-widget ul li a:hover {
-  color: #1a8ae1;
+  color:  #F6931C;
   text-decoration: none;
 }
 
@@ -930,7 +939,7 @@ form.newsletter-form .form-group button:hover {
 }
 
 .footer-widget .social-links li a:hover i {
-  color: #1a8ae1;
+  color: #F6931C;
 }
 
 
@@ -974,7 +983,7 @@ COPYRIGHT SECTION
 }
 
 .footer-menu li a:hover {
-  color: #1a8ae1;
+  color:  #F6931C;
   text-decoration: none;
 }
 
@@ -1140,7 +1149,7 @@ h2.widget-title {
 }
 
 .widget ul.widget-arrow-list li a:hover {
-  color: #1a8ae1;
+  color: #F6931C;
 }
 
 .widget ul.widget-arrow-list li:last-child a {

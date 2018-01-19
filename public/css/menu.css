@@ -56,13 +56,13 @@ NAVIGATION
 .navbar-default .navbar-nav>li>a:hover, 
 .navbar-default .navbar-nav>li>a:focus {
   color: #fff;
-  background-color: #1a8ae1;
+  background-color:  #F6931C;
 }
 
 .navbar-default .navbar-nav>.active>a, 
 .navbar-default .navbar-nav>.active>a:hover, 
 .navbar-default .navbar-nav>.active>a:focus {
-  color: #1a8ae1;
+  color:  #F6931C;
   background-color: transparent;
 }
 
@@ -70,7 +70,7 @@ NAVIGATION
 .navbar-default .navbar-nav>.open>a:hover, 
 .navbar-default .navbar-nav>.open>a:focus {
   color: #fff;
-  background-color: #1a8ae1;
+  background-color: #F6931C;
 }
 
 .navbar-default .navbar-nav>li:focus {
@@ -111,7 +111,7 @@ NAVIGATION
 
 .navbar-default .navbar-toggle:hover, 
 .navbar-default .navbar-toggle:focus {
-  background-color: #1a8ae1;
+  background-color:  #F6931C;
   color: #fff;
 }
 
@@ -128,7 +128,7 @@ NAVIGATION
 }
 
 .search-button a:hover {
-  color: #1a8ae1;
+  color:  #F6931C;
 }
 
 #search {
@@ -244,14 +244,14 @@ DROPDOWN CSS
 .nav.navbar-nav li ul.dropdown-menu li a:hover,
 .nav.navbar-nav li ul.dropdown-menu li a:focus {
   color: #fff;
-  background-color: #1a8ae1;
+  background-color:  #F6931C;
 }
 
 .dropdown-menu>.active>a, 
 .dropdown-menu>.active>a:hover, 
 .dropdown-menu>.active>a:focus {
   color: #fff !important;
-  background-color: #1a8ae1;
+  background-color:  #F6931C;
 }
 
 /* 2nd label caret */
@@ -267,7 +267,7 @@ DROPDOWN CSS
 .nav .open>a, 
 .nav .open>a:hover, 
 .nav .open>a:focus {
-  background-color: #1a8ae1;
+  background-color: #F6931C;
   color: #fff !important;
 }
 

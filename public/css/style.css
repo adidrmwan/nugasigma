@@ -69,7 +69,7 @@
 .hero-slide .carousel-caption .btn {
     -webkit-animation-delay : 250ms;
     animation-delay         : 250ms;
-    background: #1a8ae1;
+    background:  #466FCC;
     color: #fff;
     }
 
@@ -246,7 +246,7 @@ OUR SERVICES SECTION
   content: "";
   width: 300%;
   height: 100%;
-  background: #1a8ae1;
+  background: #F6931C;
   top: 0;
   right: 25px;
   z-index: -1;
@@ -318,7 +318,7 @@ ABOUT US WRAP
 }
 
 .about-us-wrap .about-us-content.capabilities {
-  background: #336cac;
+  background: #F6931C;
   padding: 48px 52px;
   color: #fff;
 }
