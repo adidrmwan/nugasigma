@@ -21,3 +21,4 @@ Route::get('/structure','PageController@structure')->name('structure');
 Route::get('/machines','PageController@machines')->name('machines');
 Route::get('/laboratory','PageController@laboratory')->name('laboratory');
 Route::get('/conference','PageController@conference')->name('conference');
+Route::get('/contact','PageController@contact')->name('contact');

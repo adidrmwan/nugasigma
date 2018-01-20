@@ -46,7 +46,7 @@
 											            <div class="submenu-inner  submenu-inner-topbottom">
 											                <ul class="dropdown-menu">
 											                    <li><a href="conference">Pers Conf.</a></li>
-											                    <li><a href="#">Contact</a></li>
+											                    <li><a href="contact">Contact</a></li>
 											                	<li><a href="#">Events</a></li>
 											                	<li><a href="#">Annual Report</a></li>
 											                </ul>

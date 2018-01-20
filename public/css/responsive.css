@@ -140,7 +140,9 @@
     display: block;
     width: 100%;
   }
-
+  .office-locations{
+    margin-left: 30%;
+  }
   .blog-post-wrapper .entry-content {
     padding: 30px;
   };
@@ -148,9 +150,17 @@
 
 /* Small devices (tablets) */
 @media (min-width: 768px) {
+    .office-locations{
+    margin-left: 30%;
+  }
 }
 
 @media (max-width: 991px) {
+
+   .office-locations{
+    margin-left: 30%;
+  }
+
   .service-left-box:before {
     left: 0;
     margin-left: -100px;

@@ -35,4 +35,8 @@ class PageController extends Controller
 	{
 		return view('conference');
 	}
+	public function contact()
+	{
+		return view('contact');
+	}
 }
